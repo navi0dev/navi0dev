@@ -17,6 +17,6 @@ Passionate about building scalable web apps and learning new technologies
 ---
 
 **Connect With Me**  
-- [LinkedIn](https://www.linkedin.com/in/vaishnavi-r-74bb69245/))  
+- [LinkedIn](https://www.linkedin.com/in/vaishnavi-r-74bb69245/)
  
 
